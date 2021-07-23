@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HelloUI</string>
+    <string name="checkout">Checkout</string>
+    <string name="deliver">Deliver to</string>
+    <string name="address">Imran Road, Khayaban Colony, Lahore, Pakistan7</string>
+    <string name="change">Change Address</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="cardNo">**** **** **** 3947</string>
+    <string name="visa">Visa</string>
+    <string name="use_other">Use Other</string>
+    <string name="_1050">$1050</string>
+    <string name="amount">Amount</string>
+    <string name="_1000">$1000</string>
+    <string name="item_total">Item total</string>
+    <string name="delivery_fee">Delivery fee</string>
+    <string name="_50">$50</string>
+    <string name="place_order">Place order</string>
+    <string name="total">Total</string>
+    <string name="td5">td5</string>
+    <string name="td4">td4</string>
+    <string name="todo">TODO</string>
+    <string name="td3">td3</string>
+    <string name="td2">td2</string>
+    <string name="td1">td1</string>
+</resources>
